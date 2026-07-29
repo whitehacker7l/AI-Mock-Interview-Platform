@@ -1,0 +1,16 @@
+# Node modules (Heavy folders)
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Local Environment Variables (Secrets)
+.env
+.env.local
+
+# Production builds
+dist/
+build/
+
+# IDE/System files
+.DS_Store
+.vscode/

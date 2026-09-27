@@ -151,3 +151,7 @@ cd AI-Mock-Interview-Platform
 
 ## 🔒 Security Whitelisting Note
 If you experience a `MongooseServerSelectionError`, please verify that your local public network machine IP address or access bounds parameters are completely whitelisted inside your **MongoDB Atlas Cloud Dashboard Network Access Panel** (`0.0.0.0/0` is recommended for flexible local deployment).
+
+
+
+Verified by Juned - 27 Sep 2026
